@@ -1,4 +1,4 @@
-# List Builder
+# Like a Notepad
 
 This is a simple Python script that interactively collects and displays a list of entries from the user. It supports two modes:
 
